@@ -2,6 +2,7 @@
 
 Clon de Flappy Bird creado para la materia desarrollo de juegos de video.
 Comentado en espanol.
+Estudiante: Alexander Bellafiore.
 
 ## Requisitos
 
